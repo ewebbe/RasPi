@@ -1,0 +1,9 @@
+#Hoeft wellicht maar een keer...
+git config -- global user.email "erickwebbe@gmail.com"
+git config -- global user.name "ewebbe"
+
+git remote -v ---- see which reposiroties are linked
+git status ---- see if there have been changes in either one of the repositories (local or remote)
+git add -A  ---- add all new edits to new commit
+git commit -m "text of memo ---- commit changes
+git push   ---- push the new branch to the remote repository
